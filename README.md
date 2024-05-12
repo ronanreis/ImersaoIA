@@ -14,6 +14,11 @@ O segundo Script consome esse JSON e gera um Segundo JSON com os resultados obti
 
 A principio estou trabalhando com esse tipo de extrutura, mas já estudando outras formas como Dataframe para melhorar performance, mas isso vai ficar para as proximas versões.
 
+
+## Melhorias
+
+Procurei usar a melhor técnica de engenharia de Prompt, para forçar o retorno em formato JSON específico, garantindo um padrao de resposta, sendo assim fica mais facil e garantido a manipulação dos dados de retorno. 
+
 ## Apêndice
 
 A extrura atual esta com as seguintes informações
