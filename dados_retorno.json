@@ -1,0 +1,90 @@
+{
+    "Brinde": {
+        "quantidade": 5,
+        "registros": [
+            {
+                "codigo_ligacao": "1715171082.200123"
+            },
+            {
+                "codigo_ligacao": "1715171468.200163"
+            },
+            {
+                "codigo_ligacao": "1715172951.200213"
+            }
+        ]
+    },
+    "Supergasbras": {
+        "quantidade": 2,
+        "registros": [
+            {
+                "codigo_ligacao": "1715171082.200123"
+            },
+            {
+                "codigo_ligacao": "1715171468.200163"
+            }
+        ]
+    },
+    "Qualidade": {
+        "quantidade": 0,
+        "registros": []
+    },
+    "Peso certo": {
+        "quantidade": 0,
+        "registros": []
+    },
+    "Aplicativo": {
+        "quantidade": 2,
+        "registros": [
+            {
+                "codigo_ligacao": "1715171082.200123"
+            },
+            {
+                "codigo_ligacao": "1715172951.200213"
+            }
+        ]
+    },
+    "Whatsapp": {
+        "quantidade": 2,
+        "registros": [
+            {
+                "codigo_ligacao": "1715172951.200213"
+            }
+        ]
+    },
+    "Água Mineral": {
+        "quantidade": 0,
+        "registros": []
+    },
+    "Registro": {
+        "quantidade": 1,
+        "registros": [
+            {
+                "codigo_ligacao": "1715172951.200213"
+            }
+        ]
+    },
+    "Bomba de água": {
+        "quantidade": 0,
+        "registros": []
+    },
+    "Garantia": {
+        "quantidade": 0,
+        "registros": []
+    },
+    "Aniversário": {
+        "quantidade": 1,
+        "registros": [
+            {
+                "codigo_ligacao": "1715172951.200213"
+            }
+        ]
+    },
+    "Instagram": {
+        "quantidade": 0,
+        "registros": []
+    },
+    "Redes Sociais": {
+        "quantidade": 0,
+        "registros": []
+    }
+}
